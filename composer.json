@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "imagine/imagine": "^0.7.1"
+    }
+}
